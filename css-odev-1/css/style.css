@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(164, 235, 98);
+}
+header {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 1rem;
+    font-size: 150px;
+    color: rgb(65, 155, 155);
+    font-family: 'Anton', sans-serif;
+}
+
+.menu {
+    text-align: center;
+    font-size: 25px;
+}
+
+.container {
+    display: flex;
+}
+.container img {
+    display:inline-block;
+    margin: 10px;
+    height: 250px;
+    width: 350px
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color: rgb(65, 155, 155);
+}
+
+p {
+    text-align: center;
+}
